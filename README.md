@@ -20,19 +20,6 @@ An interactive AI-powered chatbot built with HTML, CSS, and JavaScript, integrat
 •JavaScript – functionality + API integration
 •Google Gemini API – AI response engineHTML5 – structure
 
-📦 Setup Instructions
-
-1.Clone the repository :-
-git clone https://github.com/your-username/gemini-ai-chatbot.git
-cd gemini-ai-chatbot
-
-2.Insert your Gemini API key
-  •Open script.js
-  •Replace YOUR_API_KEY with your Gemini API key
-    
-3.Run locally
-  •Open index.html in your browser
-
 🔐 Getting a Gemini API Key
 
 1.Go to Google AI Studio
