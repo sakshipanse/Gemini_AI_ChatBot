@@ -23,8 +23,11 @@ An interactive AI-powered chatbot built with HTML, CSS, and JavaScript, integrat
 🔐 Getting a Gemini API Key
 
 1.Go to Google AI Studio
+
 2.Sign in with your Google account
+
 3.Generate an API key
+
 4.Paste it into your JavaScript file
    
 
