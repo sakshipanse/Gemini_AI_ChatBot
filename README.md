@@ -1,5 +1,6 @@
-# Gemini_AI_ChatBot
-An interactive AI-powered chatbot built with HTML, CSS, and JavaScript, integrated with Google's Gemini API for intelligent, natural language responses.
+# 💬 Gemini_AI_ChatBot
+
+Gemini Al Chatbot is a simple, interactive chatbot built using HTML, CSS, and JavaScript It connects to Google's Gemini API to provide smart, human-like responses. The chatbot allows users to ask questions or give commands, and it will reply with intelligent answers, just like talking to a real person. This project shows how to easily add Al-powered conversation to a website. It works entirely in the browser, so there's no need for a backend server. Users can also upload images or files, and the chatbot will handlethem, giving responses based on what was uploaded.
 
 🚀 Features
 
