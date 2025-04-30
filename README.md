@@ -16,8 +16,11 @@ An interactive AI-powered chatbot built with HTML, CSS, and JavaScript, integrat
 🛠️ Tech Stack
 
 •HTML5 – structure
+
 •CSS3 – styling
+
 •JavaScript – functionality + API integration
+
 •Google Gemini API – AI response engineHTML5 – structure
 
 🔐 Getting a Gemini API Key
